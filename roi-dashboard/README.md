@@ -64,25 +64,10 @@ The workflow also considers time savings and operational risks associated with A
 
 ## Screenshots
 
-### Dashboard Inputs
+### Dashboard 
 
-![Dashboard Inputs](screenshots/dashboard_inputs.png)
+![Dashboard](screenshots/roi-dashboard.png)
 
-### Revenue Scenarios
-
-![Revenue Scenarios](screenshots/revenue_scenarios.png)
-
-### Profit Scenario Chart
-
-![Profit Scenario Chart](screenshots/profit_scenario_chart.png)
-
-### Unit Economics
-
-![Unit Economics](screenshots/unit_economics.png)
-
-### Investment Decision
-
-![Investment Decision](screenshots/investment_decision.png)
 
 ## Files
 
