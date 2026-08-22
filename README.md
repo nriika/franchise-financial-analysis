@@ -525,25 +525,10 @@ The folder contains screenshots covering:
 - Unit Economics
 - Investment Decision
 
-### Dashboard Inputs
+### Roi-Dashboard 
 
-![Dashboard Inputs](roi-dashboard/screenshots/dashboard_inputs.png)
+![Roi-Dashboard](roi-dashboard/screenshots/roi-dashboard.png)
 
-### Revenue Scenarios
-
-![Revenue Scenarios](roi-dashboard/screenshots/revenue_scenarios.png)
-
-### Profit Scenario Analysis
-
-![Profit Scenario Analysis](roi-dashboard/screenshots/profit_scenario_chart.png)
-
-### Unit Economics
-
-![Unit Economics](roi-dashboard/screenshots/unit_economics.png)
-
-### Investment Decision
-
-![Investment Decision](roi-dashboard/screenshots/investment_decision.png)
 
 ---
 
