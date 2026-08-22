@@ -1,6 +1,3 @@
-## Live Demo
-
-[Open the Live ROI Dashboard](https://freshbrew-roi-dashboard.streamlit.app)
 
 # FreshBrew Franchise Financial Analysis & ROI Automation
 
